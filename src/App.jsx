@@ -31,7 +31,7 @@ function App() {
       
 
                   {/* nav bar     */}  
-                  <Navbar></Navbar>    
+                  <Navbar></Navbar> <br />   <br />
 
                   {/* ai section   */}
                   <AiSection></AiSection>  

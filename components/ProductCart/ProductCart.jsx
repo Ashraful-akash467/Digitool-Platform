@@ -36,7 +36,7 @@ const ProductCart = () => {
 
       {/* -- Inactive Button -- */}
       <button class="btn px-5 py-2 bg-white text-gray-700 text-sm rounded-full border border-gray-300">
-        Cart (2)
+        Cart (0)
       </button>
 
     </div>
